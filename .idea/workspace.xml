@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c8594a9b-bc47-4fd0-a3fd-e3e4e4d6da33" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/BookStoreApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/GenerateTokenResponseBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/Isbn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/Isbns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/api/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/pages/BookDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/pages/BookStorePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/pages/MainPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/service/BookStoreService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/Wait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/utils/WebTable.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2bxpqzPHzlHV6CnXJ9O8MwRM7Fk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.pages" />
+      <recent name="org.api" />
+      <recent name="org.service" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.ApiTest.apiTest">
+    <configuration name="Test.apiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bookstore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.api" />
+      <option name="MAIN_CLASS_NAME" value="org.test.Test" />
+      <option name="METHOD_NAME" value="apiTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiTest.uiTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="bookstore" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.uitest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.uitest" />
+      <option name="MAIN_CLASS_NAME" value="org.uitest.UiTest" />
+      <option name="METHOD_NAME" value="uiTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.ApiTest.apiTest" />
+        <item itemvalue="TestNG.UiTest.uiTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8594a9b-bc47-4fd0-a3fd-e3e4e4d6da33" name="Changes" comment="" />
+      <created>1707166780550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707166780550</updated>
+      <workItem from="1707166781651" duration="2032000" />
+      <workItem from="1707168827676" duration="7620000" />
+      <workItem from="1707212107651" duration="34961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
